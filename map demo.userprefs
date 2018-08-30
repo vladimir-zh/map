@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MapScripts\PanelManager.cs">
+    <Files>
+      <File FileName="Assets\MapScripts\CameraRotateAround.cs" Line="1" Column="1" />
+      <File FileName="Assets\MapScripts\CSV\DataLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets\MapScripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\MapScripts\CountryChanged.cs" Line="75" Column="3" />
+      <File FileName="Assets\MapScripts\PanelManager.cs" Line="13" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Documents\Vladimir\Documents\map demo\Assets\Wireframe\Examples\Scripts\RussiaChanged.cs" line="18" column="1" />
+      <Breakpoint file="D:\Documents\Vladimir\Documents\map demo\Assets\MapScripts\RussiaChanged.cs" line="88" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
